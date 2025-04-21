@@ -1,0 +1,27 @@
+
+---
+
+### 📄 `.gitignore`
+
+```gitignore
+# Maven
+target/
+*.log
+
+# Node
+node_modules/
+dist/
+.env
+
+# Angular
+.angular/
+*.tsbuildinfo
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
